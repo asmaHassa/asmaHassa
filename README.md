@@ -3,7 +3,7 @@
 - 🌱 I’m currently mastering Java, and self-learning HTML, CSS and preparing for C++ as well. I plan on using these skills to build a personalized website to showcase my skills!
 - 💞️ I’m looking to collaborate on projects, specifically involving web design and game development. 
 - 📫 How to reach me: 
--   Linkedin: www.linkedin.com/in/asma-hassan-74445622a
+-   Linkedin: www.linkedin.com/in/asmahassa
 -   Instagram: a33mma
 -   Discord : asma#0279
 - 
